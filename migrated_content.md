@@ -10,11 +10,11 @@ region: United States
 
 ---
 Social Media:
-<strong>Facebook:</strong> <https://www.facebook.com/OWASPSaintLouis/>
+<strong>Facebook:</strong> <https://www.facebook.com/OWASPSaintLouis/><br>
 <strong>Twitter:</strong>
-[owaspsaintlouis](https://twitter.com/owaspsaintlouis)
-<strong>LinkedIn: </strong><https://www.linkedin.com/groups/12015906>
-<strong>Chat with us on SLACK</strong>. <https://owasp.herokuapp.com/>
+[owaspsaintlouis](https://twitter.com/owaspsaintlouis)<br>
+<strong>LinkedIn: </strong><https://www.linkedin.com/groups/12015906><br>
+<strong>Chat with us on SLACK</strong>. https://owasp.slack.org<br>
 (Join the St. Louis Chapter Channel `#chapter-stlouis`)
 
 ## 2019 Meeting Schedule
